@@ -3,7 +3,7 @@
 
 ## Data Dictionary
 
-<form><input type="text" name="search" value="" id="id_search" placeholder="Search on that table" autofocus />
+<form><input type="text" name="search" value="" id="Abbreviation" placeholder="Search on that table" autofocus />
 
 
 | Data Type | Abbreviation   | Name                      | Definition                                                                                                                                                                                          | Notes                                                                                                                                                                                                   | Equation                                                              | Database   | 
