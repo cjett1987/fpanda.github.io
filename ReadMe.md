@@ -1,7 +1,7 @@
 
 
 
-## Usage
+## Data Dictionary
 
 To use the Cayman theme:
 
