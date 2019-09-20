@@ -1,9 +1,7 @@
 
 
 
-## Data Dictionary
-
-
+# Data Dictionary
 
 
 | Data Type | Abbreviation   | Name                      | Definition                                                                                                                                                                                          | Notes                                                                                                                                                                                                   | Equation                                                              | Database   | 
