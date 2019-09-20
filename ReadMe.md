@@ -4,6 +4,6 @@
 
 ## Customizing
 
-### Configuration variables
+### Configuration variables 
 
 
