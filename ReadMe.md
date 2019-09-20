@@ -3,7 +3,7 @@
 
 ## Data Dictionary
 
-<form><input type="text" name="search" value="" id="Abbreviation" placeholder="Search on that table" autofocus />
+
 
 
 | Data Type | Abbreviation   | Name                      | Definition                                                                                                                                                                                          | Notes                                                                                                                                                                                                   | Equation                                                              | Database   | 
@@ -27,4 +27,4 @@
 | Numeric   | LOS            | Length of Stay Finance    | The # of calculated days that a Customer paid for program orders from start to Program cancellation for a maximum of 9 months.                                                                      |                                                                                                                                                                                                         |                                                                       | NSDATAMART | 
 | Numeric   | Nth Take       | Take Rate                 | The percent of Program Customers that take delivery of the next Program order after the first order of a Diet Cycle. Take Rates are calculated for Program-only orders, or for all autoship orders. |                                                                                                                                             
 
-</form>
+
